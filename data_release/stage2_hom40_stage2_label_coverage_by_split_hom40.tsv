@@ -1,0 +1,4 @@
+split40	VIP_pos	VEIP_pos	VINIP_pos	MAP_pos	PIP_pos	RTIP_pos	SFIP_pos	VIP_neg	VEIP_neg	VINIP_neg	MAP_neg	PIP_neg	RTIP_neg	SFIP_neg	n_sequences
+train	21	293	122	8	6	28	54	503	231	402	516	518	496	470	524
+valid	12	46	29	4	1	14	13	99	65	82	107	110	97	98	111
+test_hom40	10	39	22	6	6	19	10	99	70	87	103	103	90	99	109

@@ -1,0 +1,6 @@
+model,macro_MCC,sd_perlabel_MCC,mcc_source_file,notes
+kmer13 baseline,0.6970,0.2242,stage2_baseline_lr_kmer13_test_metrics_at_validMCC_threshold.csv,Sample SD across 7 per-label test MCC values
+ESM2-t6 embedding baseline,0.5794,0.3294,stage2_esm2_t6_8M_UR50D_mean_ovr_lr_test_metrics_at_validMCC_threshold.csv,Sample SD across 7 per-label test MCC values
+Fusion(kmer13 + ESM2-t6),0.6617,0.2446,stage2_fusion_esm2_t6_8M_UR50D_test_metrics_at_validMCC_threshold.csv,Sample SD across 7 per-label test MCC values
+Fusion(kmer13 + ESM2-t6, class_weight=balanced),0.6478,0.2317,stage2_fusion_esm2_t6_8M_UR50D_cwbalanced_test_metrics_at_validMCC_threshold.csv,Internal filename uses cwbalanced; manuscript-facing label is class_weight=balanced
+Fusion(kmer13 + ESM2-t30),0.6035,0.3051,stage2_fusion_esm2_t30_150M_UR50D_test_metrics_at_validMCC_threshold.csv,Sample SD across 7 per-label test MCC values

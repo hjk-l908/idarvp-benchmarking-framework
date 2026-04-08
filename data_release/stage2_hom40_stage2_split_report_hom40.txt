@@ -1,0 +1,29 @@
+Stage2 40% homology split report
+min_pos=10, min_neg=10, ratio=(0.7, 0.15, 0.15), seed=13
+
+[train] n_sequences=524
+  VIP: pos=21, neg=503
+  VEIP: pos=293, neg=231
+  VINIP: pos=122, neg=402
+  MAP: pos=8, neg=516
+  PIP: pos=6, neg=518
+  RTIP: pos=28, neg=496
+  SFIP: pos=54, neg=470
+
+[valid] n_sequences=111
+  VIP: pos=12, neg=99
+  VEIP: pos=46, neg=65
+  VINIP: pos=29, neg=82
+  MAP: pos=4, neg=107
+  PIP: pos=1, neg=110
+  RTIP: pos=14, neg=97
+  SFIP: pos=13, neg=98
+
+[test_hom40] n_sequences=109
+  VIP: pos=10, neg=99
+  VEIP: pos=39, neg=70
+  VINIP: pos=22, neg=87
+  MAP: pos=6, neg=103
+  PIP: pos=6, neg=103
+  RTIP: pos=19, neg=90
+  SFIP: pos=10, neg=99

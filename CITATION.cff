@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated iDARVP manuscript."
+title: "iDARVP benchmarking framework"
+type: software
+authors:
+  - family-names: "Kao"
+    given-names: "Hui-Ju"
+  - family-names: "Huang"
+    given-names: "Kai-Yao"
+  - family-names: "Weng"
+    given-names: "Shun-Long"
+repository-code: "https://github.com/TBD/idarvp-benchmarking-framework"
+license: "MIT"
+abstract: "Manuscript-facing public release subset for the iDARVP homology-aware benchmarking and analysis workflow."
+keywords:
+  - antiviral peptides
+  - ARVP
+  - benchmarking
+  - homology-aware evaluation
+  - ESM-2
+  - reproducibility
+version: "staging-prepublic-v1"
+date-released: 2026-04-07

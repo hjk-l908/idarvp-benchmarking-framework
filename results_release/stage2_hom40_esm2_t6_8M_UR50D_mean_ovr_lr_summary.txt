@@ -1,0 +1,22 @@
+Stage2 multilabel embedding baseline (StandardScaler + OVR LogisticRegression)
+labels=['VIP', 'VEIP', 'VINIP', 'MAP', 'PIP', 'RTIP', 'SFIP']
+C=2.0
+
+[valid] {'mean_AUROC': 0.8916117605705585, 'mean_AUPRC': 0.6533149176125306, 'mean_F1_0_5': 0.5850024485318605}
+[test_hom40] {'mean_AUROC': 0.8630000792237654, 'mean_AUPRC': 0.6957068633029045, 'mean_F1_0_5': 0.6005242376670948}
+
+     split label  pos  neg    AUROC    AUPRC   F1_0_5
+     valid   VIP   12   99 0.794613 0.628932 0.470588
+     valid  VEIP   46   65 0.911037 0.910333 0.835165
+     valid VINIP   29   82 0.869638 0.595499 0.666667
+     valid   MAP    4  107 1.000000 1.000000 0.857143
+     valid   PIP    1  110 0.963636 0.200000 0.000000
+     valid  RTIP   14   97 0.918999 0.681281 0.720000
+     valid  SFIP   13   98 0.783359 0.557159 0.545455
+test_hom40   VIP   10   99 0.986869 0.878214 0.533333
+test_hom40  VEIP   39   70 0.885714 0.855155 0.773333
+test_hom40 VINIP   22   87 0.862069 0.678226 0.730769
+test_hom40   MAP    6  103 1.000000 1.000000 0.909091
+test_hom40   PIP    6  103 0.553398 0.096563 0.000000
+test_hom40  RTIP   19   90 0.966082 0.894107 0.857143
+test_hom40  SFIP   10   99 0.786869 0.467683 0.400000

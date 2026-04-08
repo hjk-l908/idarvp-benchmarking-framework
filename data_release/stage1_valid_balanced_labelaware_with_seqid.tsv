@@ -1,0 +1,217 @@
+row	Sequence	y	neg_source	split	seq_id
+0	QLPICGETCVLGGCYTPNCRCQYPICVR	0	APD6_pool	valid	stage1_valid_row0
+1	GSYISCGETCVKLKCYTPGCTCTWPACKKN	0	APD6_pool	valid	stage1_valid_row1
+2	GILGTVFKAGKGIVCGLTGLC	0	APD6_pool	valid	stage1_valid_row10
+3	FLPLIAGLFGKIF	0	APD6_pool	valid	stage1_valid_row100
+4	NCLLLGTEVSEALGGAGL	1		valid	stage1_valid_row101
+5	GAVHDVKDVLDS	0	APD6_pool	valid	stage1_valid_row102
+6	FIHHIIGALGHLF	0	APD6_pool	valid	stage1_valid_row103
+7	ELKNEAVRHFPRIWL	1		valid	stage1_valid_row104
+8	GLLSVLGSVAKHVLPHVVPVIAEHL	0	APD6_pool	valid	stage1_valid_row105
+9	FFRHIKSFWKGAKAIFRGARQG	0	APD6_pool	valid	stage1_valid_row106
+10	SILPTIVSFLTKFL	0	APD6_pool	valid	stage1_valid_row107
+11	NCLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row108
+12	FLFSLIPSAIAGLVSAIRN	0	APD6_pool	valid	stage1_valid_row109
+13	KGACDYPEWQWLCAA	1		valid	stage1_valid_row11
+14	GGAGLTGGFYEPLVRRC	1		valid	stage1_valid_row110
+15	VKGSWSKKFEVIA	0	APD6_pool	valid	stage1_valid_row111
+16	GFWGKLWEGVKNAI	0	APD6_pool	valid	stage1_valid_row112
+17	TEVSEALGGAGLTGGFYE	1		valid	stage1_valid_row113
+18	IWSAIWSGIKGLL	0	APD6_pool	valid	stage1_valid_row114
+19	TRSSRAGLQFPVGRVHRLLRK	1		valid	stage1_valid_row115
+20	RNKMAYNVGKAISRIMRRVR	0	APD6_pool	valid	stage1_valid_row116
+21	GWGSIFKHGRHAAKHIGHAAVNHYL	0	APD6_pool	valid	stage1_valid_row117
+22	TCILDRRPASCGTCVRDCWP	1		valid	stage1_valid_row118
+23	NNCLLLGTEVSEALGGAGLT	1		valid	stage1_valid_row119
+24	AKITFTNNHPRTIWP	1		valid	stage1_valid_row12
+25	RTCESQSHRFKGPCARKANCASVCNTEGFPDGYCHGVRRRCMCTKPCP	0	APD6_pool	valid	stage1_valid_row120
+26	IDWKKLLDAAKQIL	0	APD6_pool	valid	stage1_valid_row121
+27	LLLGTEVSEALGGAGLTG	1		valid	stage1_valid_row122
+28	TASFLLKLAGRW	1		valid	stage1_valid_row123
+29	GGYYCPFRQDKCHRHCRSFGRKAGYCGGFLKKTCICV	0	APD6_pool	valid	stage1_valid_row124
+30	SYSMEHFRWGKPV	0	APD6_pool	valid	stage1_valid_row125
+31	IQAQPDQSESELVNQIIEQL	1		valid	stage1_valid_row126
+32	FLPLKKLRFGLL	0	APD6_pool	valid	stage1_valid_row127
+33	GGVGKIIEYFIGGGVGRYG	0	APD6_pool	valid	stage1_valid_row128
+34	FFSMIPKIATGIASLVKDL	0	APD6_pool	valid	stage1_valid_row129
+35	FLSMIPKIAGGIASLVKNL	0	APD6_pool	valid	stage1_valid_row13
+36	GCKKYRRFRWKFKGKFWFWG	1		valid	stage1_valid_row130
+37	IVPFLLGMVPKLVCLITKKC	0	APD6_pool	valid	stage1_valid_row131
+38	GMASLLAKVLPHVVKLIK	0	APD6_pool	valid	stage1_valid_row132
+39	SDHSESIQKKFQLMKEHVNKIGVDS	1		valid	stage1_valid_row133
+40	LLGDLLDDVTSIRHAVLQNRAAIDF	1		valid	stage1_valid_row134
+41	ICIFCCGCCHRSKCGMCCKT	0	APD6_pool	valid	stage1_valid_row135
+42	VVYALKRNGRTLYGF	0	APD6_pool	valid	stage1_valid_row136
+43	KRKRAVKRVGRRLKKKLARKIARLGVAF	1		valid	stage1_valid_row137
+44	VSVIVPDYQCYLDRVDTWLQ	1		valid	stage1_valid_row138
+45	AVKRVGRRLKKLARKIARLGVAF	1		valid	stage1_valid_row139
+46	GFLDIVKGVGKVALGAVSKLF	0	APD6_pool	valid	stage1_valid_row14
+47	FLPFLAGLFGKIF	0	APD6_pool	valid	stage1_valid_row140
+48	CKWEEAKVKFHCQRTQSQPGSW	1		valid	stage1_valid_row141
+49	GLLGSIGNAIGAFIANKLKP	0	APD6_pool	valid	stage1_valid_row142
+50	FLPIIGKLLSGLL	0	APD6_pool	valid	stage1_valid_row143
+51	SGIVQQQNNLLRAIEAQQHLLQLTVWGIKQCCGRISGIVQQQNNLLRA	1		valid	stage1_valid_row144
+52	CLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row145
+53	LLFGKIISRLLGN	0	APD6_pool	valid	stage1_valid_row146
+54	GFVDFLKKVAGTIANVVT	0	APD6_pool	valid	stage1_valid_row147
+55	KKKMVLGVFALLSLISGSLKK	1		valid	stage1_valid_row148
+56	GTEVSEALGGAGLTGGFY	1		valid	stage1_valid_row149
+57	KWLTEWIPLTAEC	1		valid	stage1_valid_row15
+58	FNLSDHSESIQKKFQLMKEHVNKIG	1		valid	stage1_valid_row150
+59	GFLDIIEKIAKSW	1		valid	stage1_valid_row151
+60	GTKWLTEWIPLC	1		valid	stage1_valid_row152
+61	ESAIRKAILGHIVSP	1		valid	stage1_valid_row153
+62	CHPTHTVATDDQGHLCTTIIC	0	APD6_pool	valid	stage1_valid_row154
+63	PFLWMGYELHPDKWTVQPIV	1		valid	stage1_valid_row155
+64	QLQKWEDWVRWIGNIPQYLKG	1		valid	stage1_valid_row156
+65	RLFRHAFKAVLRL	0	APD6_pool	valid	stage1_valid_row157
+66	RNPVCPGYAWLSSGRPDGFI	1		valid	stage1_valid_row158
+67	KGRGKQGGKVRAKAKTRSS	1		valid	stage1_valid_row159
+68	INLKAIAAMAKKLL	0	APD6_pool	valid	stage1_valid_row16
+69	CHPTHTVATDDQGHLCTTII	0	APD6_pool	valid	stage1_valid_row160
+70	NNCLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row161
+71	LGTEVSEALGGAGLTGGF	1		valid	stage1_valid_row162
+72	MDYQVSSPIYDINYYTSEPCQKINVK	1		valid	stage1_valid_row163
+73	GLLASLGKVFGGYLAEKLKPK	1		valid	stage1_valid_row164
+74	AAYFLLKLAGRW	1		valid	stage1_valid_row165
+75	FLSALWGVAKSLF	0	APD6_pool	valid	stage1_valid_row166
+76	QKWEDWVRWIGN	1		valid	stage1_valid_row167
+77	FLPIIGKLLSG	0	APD6_pool	valid	stage1_valid_row168
+78	QNPDIVIYQYMDDLY	1		valid	stage1_valid_row169
+79	SSLLEKGLDGAKKAVGGLGKLGKDA	0	APD6_pool	valid	stage1_valid_row17
+80	DCTRWIIGINGRICRD	0	APD6_pool	valid	stage1_valid_row170
+81	GAPASVLGSRPFDYGLKWQS	1		valid	stage1_valid_row171
+82	TAYALLKLAGRW	1		valid	stage1_valid_row172
+83	FLSLIPHIVSGVASIAKHFG	0	APD6_pool	valid	stage1_valid_row173
+84	SKIDVWSLVPVGSASCTIAA	1		valid	stage1_valid_row174
+85	FLSMIPHIVSGVAALAKHL	0	APD6_pool	valid	stage1_valid_row175
+86	PLNNCLLLGTEVSEALGGAG	1		valid	stage1_valid_row176
+87	GRRKRKWLRRIGKGVKIIGGAALDHL	0	APD6_pool	valid	stage1_valid_row177
+88	GLFDIVGKLLGGLGL	0	APD6_pool	valid	stage1_valid_row178
+89	IFGMIPGLIGGLISAFK	0	APD6_pool	valid	stage1_valid_row179
+90	SNFASITTPRPH	1		valid	stage1_valid_row18
+91	SWFASTGGRDSKIDVWSLVP	1		valid	stage1_valid_row180
+92	TAAFLLKLAGRW	1		valid	stage1_valid_row181
+93	ATNIPFKVHFRCKAAFC	0	APD6_pool	valid	stage1_valid_row182
+94	VNWKKILGKIIKVVK	0	APD6_pool	valid	stage1_valid_row183
+95	FKLRAKIKVRLRAKIKL	1		valid	stage1_valid_row184
+96	GGKMLYNKVTKQLSYCTDPL	1		valid	stage1_valid_row185
+97	LSCDEGMLAVGGLGAVGGPWGAAVGVLVGAALYCF	0	APD6_pool	valid	stage1_valid_row186
+98	IKKTYEEIKKTYEEIKKTYEEIKKTYEEIKKTYEE	1		valid	stage1_valid_row187
+99	AGMKNIIDAIKKKLGGKL	0	APD6_pool	valid	stage1_valid_row188
+100	GWFDIIKKIASEL	1		valid	stage1_valid_row189
+101	NNCLLLGTEVSEALGGAGL	1		valid	stage1_valid_row19
+102	FLPIIAGAAAKVVEKIFCAISKKC	0	APD6_pool	valid	stage1_valid_row190
+103	LNLKKILGKIGVMLSHLN	0	APD6_pool	valid	stage1_valid_row191
+104	PLNNCLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row192
+105	CLLLGTEVSEALGGAGLT	1		valid	stage1_valid_row193
+106	FLPIVGKLLSGLF	0	APD6_pool	valid	stage1_valid_row194
+107	GILDPIKAFAKAAG	0	APD6_pool	valid	stage1_valid_row195
+108	LTEDRWNKPQKTKGH	1		valid	stage1_valid_row196
+109	VPPLNNCLLLGTEVSEALGG	1		valid	stage1_valid_row197
+110	FWGKLWEGVKNAI	0	APD6_pool	valid	stage1_valid_row198
+111	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR	0	APD6_pool	valid	stage1_valid_row199
+112	NVGVLNPPPLV	0	APD6_pool	valid	stage1_valid_row2
+113	WPTNPTTVPVPS	1		valid	stage1_valid_row20
+114	LNNCLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row200
+115	GWKSVFRKAKKVGKTVGGLALDHYL	0	APD6_pool	valid	stage1_valid_row201
+116	VNWKKVLGKIIKVAK	0	APD6_pool	valid	stage1_valid_row202
+117	FLSLIPHAINAVSTLVHHF	0	APD6_pool	valid	stage1_valid_row203
+118	SPPSEQLGKSFNF	0	APD6_pool	valid	stage1_valid_row204
+119	VNWKKILGKIIKVAK	0	APD6_pool	valid	stage1_valid_row205
+120	LNNCLLLGTEVSEALGGA	1		valid	stage1_valid_row206
+121	GIFDKLAKEISIW	1		valid	stage1_valid_row207
+122	GLGSLVGNALRIGAKLL	0	APD6_pool	valid	stage1_valid_row208
+123	FLSLIPHIVSGVASIAKHF	0	APD6_pool	valid	stage1_valid_row209
+124	GFWGKLWEGVKSAI	0	APD6_pool	valid	stage1_valid_row21
+125	AEASQVTNTATIM	1		valid	stage1_valid_row210
+126	FKSWSFCTPGCAKTGSFNSYCC	0	APD6_pool	valid	stage1_valid_row211
+127	GKLNLFLSRLEILKLFVGAL	0	APD6_pool	valid	stage1_valid_row212
+128	GTKWLTEWIPLTAEC	1		valid	stage1_valid_row213
+129	FIGMIPGLIGGLISAFK	0	APD6_pool	valid	stage1_valid_row214
+130	INLKAIAALAKKLL	1		valid	stage1_valid_row215
+131	TAYFLLKLAARW	1		valid	stage1_valid_row22
+132	GFLDVVKHIGKAALGAVTHLINQ	0	APD6_pool	valid	stage1_valid_row23
+133	LKTVRLIKFLY	1		valid	stage1_valid_row24
+134	AVNIPFKVHLRCKAAFC	0	APD6_pool	valid	stage1_valid_row25
+135	NCLLLGTEVSEALGGAGLT	1		valid	stage1_valid_row26
+136	GLLASLGKVLGGYLAEKLKP	0	APD6_pool	valid	stage1_valid_row27
+137	FIFPKKNIINSLFGR	0	APD6_pool	valid	stage1_valid_row28
+138	GLTGGFYEPLVRRCSELMGR	1		valid	stage1_valid_row29
+139	STTVKAASWWA	1		valid	stage1_valid_row3
+140	INLKAITALAKKLL	0	APD6_pool	valid	stage1_valid_row30
+141	WKKIRRFVSQVIM	1		valid	stage1_valid_row31
+142	FAIAIKAIKKAIKKIKKAIKKAI	1		valid	stage1_valid_row32
+143	GIPCGESCVWIPCISSAIGCSCKSKVCYRN	0	APD6_pool	valid	stage1_valid_row33
+144	TAYFALKLAGRW	1		valid	stage1_valid_row34
+145	KRGLWESLKRKATKLGDDIRNTLRNFKIKFPVPRQG	0	APD6_pool	valid	stage1_valid_row35
+146	FLFSLIPSVIAGLVSAIRN	0	APD6_pool	valid	stage1_valid_row36
+147	GPPPHHRDYHGP	1		valid	stage1_valid_row37
+148	GIPCGESCVFIPCLTTVAGCSCKNKVCYRN	1		valid	stage1_valid_row38
+149	FIHFRIGCQHSRIGI	1		valid	stage1_valid_row39
+150	FLSLIPHAINAVSTLVHHSG	0	APD6_pool	valid	stage1_valid_row4
+151	FLSLIPKIAGGIASLVKNL	0	APD6_pool	valid	stage1_valid_row40
+152	FLPIVGKLLSGLL	0	APD6_pool	valid	stage1_valid_row41
+153	GFLDVVKGVGKAALGAVTHLINQ	0	APD6_pool	valid	stage1_valid_row42
+154	KILEPFRKQNPDIVI	1		valid	stage1_valid_row43
+155	PPINNCMPLGTEVSEALGGA	1		valid	stage1_valid_row44
+156	PPLNNCLLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row45
+157	CEYQAGHNKVGSLQY	1		valid	stage1_valid_row46
+158	GKWMSLLKHILK	0	APD6_pool	valid	stage1_valid_row47
+159	KRKRAVKRVGRRLKKLARKIARLGVAKLAGLRAVKLF	1		valid	stage1_valid_row48
+160	KGLSGPFCSWWWV	1		valid	stage1_valid_row49
+161	FLQHIIGALGHLF	0	APD6_pool	valid	stage1_valid_row5
+162	FSLFFPYAALKWLRKLLKK	0	APD6_pool	valid	stage1_valid_row50
+163	PQMELRRNGRQCGMSEKEEE	1		valid	stage1_valid_row51
+164	LQYLALAALITPKKI	1		valid	stage1_valid_row52
+165	PLNNCLLLGTEVSEALGG	1		valid	stage1_valid_row53
+166	ALGPAATLEEMMAAAQGV	1		valid	stage1_valid_row54
+167	CRFCCRCCPRMRGCGLCCRF	0	APD6_pool	valid	stage1_valid_row55
+168	FLSLIPHIVSGVASLAIHF	0	APD6_pool	valid	stage1_valid_row56
+169	LLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row57
+170	FLSLIPAAISAVSALANHF	0	APD6_pool	valid	stage1_valid_row58
+171	EWTLELLEELKNEAV	1		valid	stage1_valid_row59
+172	WLRRIGKGVKIIGGAALDHL	0	APD6_pool	valid	stage1_valid_row6
+173	KRFWQLVPLAIKIYRAWKRR	0	APD6_pool	valid	stage1_valid_row60
+174	GIPCGESCVWIPCLTSAIGCSCKSKVCYRN	0	APD6_pool	valid	stage1_valid_row61
+175	FLPAALAGIGGILGKLF	0	APD6_pool	valid	stage1_valid_row62
+176	FRPALIVRTKGTRL	1		valid	stage1_valid_row63
+177	KILEPFRKQNPDIVIYQYMD	1		valid	stage1_valid_row64
+178	SIGAKILGGVKTFFKGALKELASTYLQ	1		valid	stage1_valid_row65
+179	PFRKQNPDIVIYQYM	1		valid	stage1_valid_row66
+180	FGLPMLSILPKALCILLKRKC	0	APD6_pool	valid	stage1_valid_row67
+181	RAGLKFPVGRVHRLLR	0	APD6_pool	valid	stage1_valid_row68
+182	GLFDIIKNIFSGL	0	APD6_pool	valid	stage1_valid_row69
+183	ALGAAATLEEMMTACQGV	1		valid	stage1_valid_row7
+184	FRKQNPDIVIYQYMD	1		valid	stage1_valid_row70
+185	LQKWEDWVRWIGNIPQYLKG	1		valid	stage1_valid_row71
+186	LLLGTEVSEALGGAGLTGG	1		valid	stage1_valid_row72
+187	MAGRSGDSDEELLKTVRLIKFLYQSNPPPS	1		valid	stage1_valid_row73
+188	LNLKALLAVAKKIL	0	APD6_pool	valid	stage1_valid_row74
+189	KSWSLCTPGCARTGSFNSYCC	0	APD6_pool	valid	stage1_valid_row75
+190	FFSMIPKIAGGIASLVKNLG	0	APD6_pool	valid	stage1_valid_row76
+191	LIAGLAANFLPKLFCKITK	0	APD6_pool	valid	stage1_valid_row77
+192	EELAKKAEELAKKAEELAKKAEELAKKAWASLWNWF	1		valid	stage1_valid_row78
+193	FLALALIQEAIAKLK	0	APD6_pool	valid	stage1_valid_row79
+194	GIKEFAHSLGKFGKAFFGGILNQ	0	APD6_pool	valid	stage1_valid_row8
+195	AEAASQVTNTATIM	1		valid	stage1_valid_row80
+196	IQAQPDKSESELVSQ	1		valid	stage1_valid_row81
+197	FCKSLPLPLSVK	0	APD6_pool	valid	stage1_valid_row82
+198	AGFAAQAAASLAPVAVQQL	0	APD6_pool	valid	stage1_valid_row83
+199	GLFDIIKNIVSTL	0	APD6_pool	valid	stage1_valid_row84
+200	QLQKWEDWVRWI	1		valid	stage1_valid_row85
+201	LGEWYNQTKELQQKFYEIIMNIEQNNVQVKKGLQQ	1		valid	stage1_valid_row86
+202	KQQLATEAESAGPIL	0	APD6_pool	valid	stage1_valid_row87
+203	NQTKDLQQKFYEIIMDIEQN	1		valid	stage1_valid_row88
+204	GLWQFIKDKFKDAATGLVTGIQS	0	APD6_pool	valid	stage1_valid_row89
+205	ITFEDLLDYYGP	1		valid	stage1_valid_row9
+206	GWKKWFTKGERLSQRHFA	0	APD6_pool	valid	stage1_valid_row90
+207	SLFGTFAKMALKGASKLIPHLLPSRQQ	0	APD6_pool	valid	stage1_valid_row91
+208	CLLLGTEVSEALGGAGLTG	1		valid	stage1_valid_row92
+209	FCIRVRVCNHYFCFYALRCF	0	APD6_pool	valid	stage1_valid_row93
+210	TDIQTKELQKQITKIQNFRV	1		valid	stage1_valid_row94
+211	GFPCGESCVFIPCISAAIGCSCKNKVCYRN	1		valid	stage1_valid_row95
+212	NNCLLLGTEVSEALGGAG	1		valid	stage1_valid_row96
+213	FAKKFAKKFKKFAKKFAKFAFAF	1		valid	stage1_valid_row97
+214	QYRHRCCAWGPGRKYCKRWC	0	APD6_pool	valid	stage1_valid_row98
+215	WEDWVRWIGNIP	1		valid	stage1_valid_row99
