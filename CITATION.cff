@@ -19,5 +19,5 @@ keywords:
   - homology-aware evaluation
   - ESM-2
   - reproducibility
-version: "staging-prepublic-v1"
+version: "v1.0.0"
 date-released: 2026-04-07
