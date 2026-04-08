@@ -5,10 +5,6 @@ type: software
 authors:
   - family-names: "Kao"
     given-names: "Hui-Ju"
-  - family-names: "Huang"
-    given-names: "Kai-Yao"
-  - family-names: "Weng"
-    given-names: "Shun-Long"
 repository-code: "https://github.com/hjk-l908/idarvp-benchmarking-framework"
 license: "MIT"
 abstract: "Manuscript-facing public release subset for the iDARVP homology-aware benchmarking and analysis workflow."
