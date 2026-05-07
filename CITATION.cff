@@ -5,8 +5,6 @@ type: software
 authors:
   - family-names: "Kao"
     given-names: "Hui-Ju"
-  - family-names: "Tseng"
-    given-names: "Yi-Jhan"
   - family-names: "Chang"
     given-names: "Ya-Han"
   - family-names: "Chi"
@@ -19,6 +17,8 @@ authors:
     given-names: "Chen-Chen"
   - family-names: "Pan"
     given-names: "Cheng-Yi"
+  - family-names: "Tseng"
+    given-names: "Yi-Jhan"
   - family-names: "Huang"
     given-names: "Kai-Yao"
   - family-names: "Weng"
