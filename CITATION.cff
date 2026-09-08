@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated iDARVP manuscript."
+message: "If you use this release, please cite the associated iDARVP manuscript and the archived software release DOI when available."
 title: "iDARVP benchmarking framework"
 type: software
 authors:
@@ -33,5 +33,5 @@ keywords:
   - homology-aware evaluation
   - ESM-2
   - reproducibility
-version: "v1.0.0"
-date-released: 2026-04-07
+version: "1.1.0"
+date-released: 2026-09-08

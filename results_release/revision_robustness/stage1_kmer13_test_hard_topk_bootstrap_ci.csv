@@ -1,0 +1,4 @@
+model,n_test,n_pos,K,TP_at_K,Precision_at_K,Recall_at_K,Enrichment_at_K,TP_at_K_ci_low,TP_at_K_ci_high,Precision_ci_low,Precision_ci_high,Recall_ci_low,Recall_ci_high,Enrichment_ci_low,Enrichment_ci_high,n_boot,seed
+kmer13_baseline,1315,19,50,0,0.0,0.0,0.0,0.0,2.0,0.0,0.04,0.0,0.130435,0.0,3.430435,2000,42
+kmer13_baseline,1315,19,100,1,0.01,0.052632,0.692105,0.0,3.0,0.0,0.03,0.0,0.173977,0.0,2.287797,2000,42
+kmer13_baseline,1315,19,200,2,0.01,0.105263,0.692105,0.0,4.0,0.0,0.02,0.0,0.235294,0.0,1.547059,2000,42

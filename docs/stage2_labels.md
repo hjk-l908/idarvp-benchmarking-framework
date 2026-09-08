@@ -1,13 +1,13 @@
 # Stage 2 label definitions
 
-Stage 2 in iDARVP is formulated as a seven-label multi-label mechanism-prediction task.
+Stage 2 in iDARVP is formulated as a multi-label activity-prediction task with six biological activity categories plus one analysis-specific multi-activity grouping (MAP).
 
-The seven labels used in this release subset are:
+The six biological activity categories and one derived analytical grouping used in this release subset are:
 
 - `VIP` — viral infection peptide
 - `VEIP` — viral entry inhibitory peptide
 - `VINIP` — viral integration inhibitory peptide
-- `MAP` — multi-activity annotated peptide
+- `MAP` — analysis-specific multi-activity grouping (not an independent biological mechanism)
 - `PIP` — protease inhibitory peptide
 - `RTIP` — reverse transcriptase inhibitory peptide
 - `SFIP` — syncytium formation inhibitory peptide

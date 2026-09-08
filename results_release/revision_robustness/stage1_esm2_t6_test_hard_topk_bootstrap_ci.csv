@@ -1,0 +1,4 @@
+model,n_test,n_pos,K,TP_at_K,Precision_at_K,Recall_at_K,Enrichment_at_K,TP_at_K_ci_low,TP_at_K_ci_high,Precision_ci_low,Precision_ci_high,Recall_ci_low,Recall_ci_high,Enrichment_ci_low,Enrichment_ci_high,n_boot,seed
+esm2_t6_mean_lr,1315,19,50,1,0.02,0.052632,1.384211,0.0,3.0,0.0,0.06,0.0,0.181902,0.0,4.784032,2000,42
+esm2_t6_mean_lr,1315,19,100,3,0.03,0.157895,2.076316,0.0,6.0,0.0,0.06,0.0,0.3125,0.0,4.109375,2000,42
+esm2_t6_mean_lr,1315,19,200,4,0.02,0.210526,1.384211,0.0,8.0,0.0,0.04,0.0,0.409091,0.0,2.689773,2000,42
