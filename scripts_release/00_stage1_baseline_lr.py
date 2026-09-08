@@ -55,7 +55,7 @@ def metrics(y_true, prob, thr=0.5):
 def find_best_thr_on_valid(yv, pv):
     # Select the validation threshold that maximizes MCC.
     best = (-1.0, 0.5)
-    for thr in np.linspace(0.05, 0.95, 19):
+    for thr in np.linspace(0.0, 1.0, 501):
         m = matthews_corrcoef(yv, (pv >= thr).astype(int))
         if m > best[0]:
             best = (m, float(thr))
@@ -110,7 +110,7 @@ def main():
             split, "thr=0.5", len(y), int(y.sum()), best_thr, best_mcc, *m05.values()
         ])
         rows.append([
-            split, f"thr={best_thr:.2f}", len(y), int(y.sum()), best_thr, best_mcc, *mbt.values()
+            split, f"thr={best_thr:.3f}", len(y), int(y.sum()), best_thr, best_mcc, *mbt.values()
         ])
 
     cols = [
@@ -124,14 +124,14 @@ def main():
     with open(args.out_prefix + "_summary.txt", "w", encoding="utf-8") as f:
         f.write("Stage1 baseline (k-mer + LogisticRegression)\n")
         f.write(f"ngram=1..{args.max_ngram}, C={args.C}\n")
-        f.write(f"best_thr_from_valid={best_thr:.2f}, best_valid_MCC={best_mcc:.4f}\n\n")
+        f.write(f"best_thr_from_valid={best_thr:.3f}, best_valid_MCC={best_mcc:.4f}\n\n")
         f.write(out.to_string(index=False))
         f.write("\n")
 
     print("WROTE:")
     print(args.out_prefix + "_metrics.csv")
     print(args.out_prefix + "_summary.txt")
-    print(f"best_thr_from_valid={best_thr:.2f} best_valid_MCC={best_mcc:.4f}")
+    print(f"best_thr_from_valid={best_thr:.3f} best_valid_MCC={best_mcc:.4f}")
 
 
 if __name__ == "__main__":
