@@ -1,9 +1,10 @@
 # Revision figure source map
 
 ## Figure 1
-`figures_release/Figure_1_iDARVP_workflow_final_v1.*`
+`figures_release/Figure_1_iDARVP_workflow_final_v1.pdf`
+`figures_release/Figure_1_iDARVP_workflow_final_v1.png`
 
-Conceptual workflow schematic aligned to the revised manuscript. The editable PPTX is included. The external AI4AVP/AVPpred pilot is deliberately shown as a supplementary exploratory branch, and Stage 2 explicitly separates six biological activity categories from MAP, an analytical multi-activity grouping.
+Conceptual workflow schematic aligned to the revised manuscript. The external AI4AVP/AVPpred pilot is deliberately shown as a supplementary exploratory branch, and Stage 2 explicitly separates six biological activity categories from MAP, an analytical multi-activity grouping.
 
 ## Figure 2
 `figures_release/Figure_2_stage1_easy_hard_topK_final_v1.*`
